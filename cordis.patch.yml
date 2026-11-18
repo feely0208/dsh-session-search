@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-session-search 的组合层
+- insert:
+    - id: session-search
+      name: '@deepwhale-cn/dsh-session-search'
